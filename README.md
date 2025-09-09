@@ -1,5 +1,6 @@
 # Minicalculadora
 
+
 print('Bem vindo a mini calculadora!')
 
 num1 = float(input('Digite o primeiro numero:'))
